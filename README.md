@@ -1,10 +1,10 @@
 # RCards
 Password Cards done with R
 
-![RCards Demo](https://github.com/talassio/RCards/raw/master/demo.png "RCards Demo")
+![RCards Demo](https://github.com/talassio/RCards/raw/master/RCards.png "RCards Demo")
 
 ## What is it?
-*RRards* is a small R script that generates Password Cards
+*RRards* is a small R script that generates Password Cards. It is inspired by [qwertycards.com](https://www.qwertycards.com).
 
 ## How do I use it?
 Open the script, change the Random Number Generator Seed, define the PDF output filename and source the script.
@@ -22,8 +22,9 @@ an 8 character in length *Spacebar code*:
 Finally, to use it you _combine_ the *Spacebar code*, the *personal password*, 
  *scrambled version* of the site's name and one or all words of the *Pass phrase*.
 
-For example, say your *personal passoword* NethsyBlu3, then a possible password for a gmail account using the RCards show above, could be
+For example, say your *personal password* NethsyBlu3, then a possible password for a gmail account using the RCards show above, could be
 
 Password = *Spacebar code* + *personal password* + *scrambled version* + *Pass phrase*.
 
 `el18<ZG+` + `NethsyBlu3` + `SxW=a` + `ruby`
+
