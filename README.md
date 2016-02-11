@@ -11,7 +11,7 @@ Open the script, change the Random Number Generator Seed, define the PDF output 
 
 ## No, really, how do I use the card?
 The card has three parts, a *map* table, that maps the alphanumeric keys of your keyboard to a scambled (random) table,
-a *Pass phrase* (of variable lenth, the above example is a three words phrase) and 
+a *Pass phrase* (of variable length, the above example is a three words phrase) and 
 an 8 character in length *Spacebar code*:
 
   1. With the *map* you translate the web site's name to the *scrambled version*
