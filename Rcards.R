@@ -13,7 +13,7 @@
 # Configuration ####
 # Add a reference for this card
 # e.g. Personal Key or Work Key
-Reference = 'Personal RCards #1   '
+Reference = 'lexy foxy ruby  '
 # Change RNG seed and save it in a SAFE place...
 seed = 3412567
 # PDF file to output Card
